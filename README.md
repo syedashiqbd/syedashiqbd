@@ -1,4 +1,4 @@
-![Header]([./your-header-image-name.png](https://raw.githubusercontent.com/syedashiqbd/syedashiqbd/main/Untitled%20design.png))
+![Header](https://raw.githubusercontent.com/syedashiqbd/syedashiqbd/main/Untitled%20design.png)
 # 📌 Frontend Developer (MERN)
 <br>🚀 Currently working on refining my React skills and building interactive user interfaces.<br>👥 Looking to collaborate on open-source projects and connect with fellow developers in the MERN community.<br>🤝 Seeking help with optimizing performance in React applications and improving frontend development workflows.<br>📚 Currently learning about state management in React and exploring advanced JavaScript concepts.<br>❓ Ask me about my experience with integrating third-party APIs into React projects.
 
